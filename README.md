@@ -1,9 +1,11 @@
 ## VR게임조사 
+
 # BeatSaber
 
 ## 1. 제작회사, 장르
 
 제작회사 : BeatGames
+
 장르 : 리듬게임
 
 ## 2. 간단한소개+ 게임스크린샷
@@ -17,8 +19,11 @@
 즐기는 방법은, 화살표와 색에 맞춰서 베어내기만 하면 된다. 정면에 흰색 게이지가 있는데, 노트를 정확히 벨때마다 차오르고 놓치게되면, 줄어든다. 게이지가 다 닳으면 게임 오버. 좌측 설정에 실패 없음(NO FAIL)을 켜면 게임 오버는 막을수 있지만, 패널티가 부가된 채로 랭킹에 등록이 된다.
 
 난이도는 쉬움(EASY), 가운데(NORMAL), 어려움(HARD), 경험자(EXPERT), 경험자＋(EXPERT+)[6] 난이도로 나뉘어져 있다.
+
 <BR>
+
 ***
+
 <BR>
 
 ## MOBILE 게임조사
@@ -26,20 +31,17 @@
 ## 쿠키런
 
 
-
 ### 제작사
 
 데브시스터즈에서 개발되어
 2013 4월 2일에 출시한 사이드 스크롤 러닝 액션게임
 
-
-
 ### 게임 엔진
 
 Cocos2d-x
 
-
 ### 게임 소개
+
 <br>
 
 ![ZeITkWK - Imgur](https://user-images.githubusercontent.com/54255373/66632398-5a180b80-ec43-11e9-96dd-8d803b5abbac.gif)
@@ -49,8 +51,11 @@ Cocos2d-x
 쿠키와 펫은 하나씩만 선택할 수 있으며, 이어달리기를 사용한다면 처음 달린 쿠키가 죽은 지점에서 추가로 다른 쿠키가 이어달려 두 개의 쿠키를 쓸 수 있다.
 
 조작법은 간단하다 스크린의 좌측을 터치하면 점프, 우측을 터치하면 슬라이드가 된다
+
 <BR>
+
 ***
+
 <BR>
 
 ## PC게임조사
@@ -71,9 +76,7 @@ Cocos2d-x
 ![Jang_Screenshot](https://user-images.githubusercontent.com/54298426/66635319-e9282200-ec49-11e9-909e-bad9c8e00b50.jpg)
 ![Jang_Screenshot2](https://user-images.githubusercontent.com/54298426/66635321-e9282200-ec49-11e9-950d-1aafef98b4cd.PNG)
 
-
 <BR>
-
 
 ***
 
@@ -91,7 +94,6 @@ AR게임 소개
 소개 
 ----
 **오러**, **마법 동물학자**, **교수** 총 3개의 직업이 있다.
-
 
 직업 소개
 --------
@@ -111,5 +113,3 @@ AR게임 소개
 ![2](https://user-images.githubusercontent.com/54255487/66632959-ab74ca80-ec44-11e9-9dc2-06d5bb91a915.jpg)
 ![주석 2019-10-11 163005](https://user-images.githubusercontent.com/54255487/66632961-ac0d6100-ec44-11e9-8335-b2d8f679a14d.png)
 ![주석 2019-10-11 163028](https://user-images.githubusercontent.com/54255487/66632962-ac0d6100-ec44-11e9-8a5f-1b20ffad03e5.png)
-
-
